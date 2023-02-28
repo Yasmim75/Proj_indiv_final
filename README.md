@@ -12,10 +12,10 @@ Com isso em mente, surgiram as seguintes ideias:
 
 **Priscila:** Criar uma API que solucionasse a falta de bibliotecas físicas nos bairros. Criando um aplicativo que contivesse livros gratuitos, com a opção de ler online e baixar em pdf.
 
-**Orlando:**
+**Orlando:** Uma aplicação que agrupa os dados em tempo real do transporte público do Rio de Janeiro. Atualmente o aplicativo Moovit permite que o usuário consulte apenas o tempo real dos ônibus, enquanto a SuperVia possui o seu próprio aplicativo que mostra apenas os dados em tempo real dos trens, e o VLT possui o seu próprio aplicativo que faz o mesmo, e só exibe o tempo real do VLT. Dessa maneira, os usuários necessitam de 3 apps em seu telefone para consultar o tempo do transporte público. O intuito da aplicação seria permitir que em um único site todas essas informações fossem exibidas de forma agrupada.
 
-
-**Thiago:**
+**Thiago:** Criar uma API para fazer uma integração das bibliotecas públicas. Gerar um único banco de dados para pesquisa e localização de livros.
+Teria uma relação de autor e título, onde está localizada a obra ou livro científico, separando por município e bairro do Rio de Janeiro.
 
 **Matheus:**
 
